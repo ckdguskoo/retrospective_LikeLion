@@ -32,8 +32,5 @@ public class Constant {
         System.out.println(PI);
         System.out.println(d);
         System.out.println(bol);
-
-
-
     }
 }
