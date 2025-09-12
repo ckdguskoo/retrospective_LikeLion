@@ -1,11 +1,8 @@
-package day08;
+package day8;
 
 class car{ //클래스 생성
 
 }
-
-
-
 
 public class ClassExam {
     public static void main(String[] args) {
